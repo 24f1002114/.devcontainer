@@ -1,9 +1,0 @@
-{
-  "name": "ga2-256abb",
-  "image": "ghcr.io/devcontainers/features/python:1",
-  "extensions": [
-    "ms-python.python"
-  ],
-  "postCreateCommand": "pip install --upgrade pip && pip install fastapi uvicorn"
-}
-
